@@ -1,0 +1,6 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats,max_torque_rpm,prediction
+Mahindra,2010,168000,Diesel,Individual,Manual,First Owner,14.0,2498,112.0,260.0,7,2200.0,576655.7659396597
+Tata,2017,25000,Diesel,Individual,Manual,First Owner,21.5,1497,108.5,260.0,5,2750.0,703160.1938263945
+Honda,2007,218463,Petrol,Individual,Automatic,First Owner,12.9,1799,130.0,172.0,5,4300.0,423616.70783056226
+Honda,2015,173000,Diesel,Individual,Manual,First Owner,25.1,1498,98.6,200.0,5,1750.0,607302.3211624183
+Tata,2011,70000,Petrol,Individual,Manual,Second Owner,16.5,1172,65.0,96.0,5,3000.0,27743.514322693227
